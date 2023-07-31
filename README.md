@@ -1,6 +1,7 @@
-@blck-b:matrix.org
-
-blck-b@proton.me
+[website](https://blck-b.github.io)
 ##
+contact
 
-https://blck-b.github.io/
+[matrix](https://matrix.to/#/@blck-b:matrix.org)
+
+[email](mailto:blck-b@proton.me)
