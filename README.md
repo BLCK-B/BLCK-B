@@ -1,8 +1,8 @@
 ### websites
 
-personal github page: [blck-b.github.io](https://blck-b.github.io)
+[blck-b.github.io](https://blck-b.github.io) - profile page
 
-web apps: [Spruiten](https://spruits.eu/)
+[Spruiten](https://spruits.eu/) - web apps
 
 #
 
