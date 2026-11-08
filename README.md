@@ -10,4 +10,4 @@
 
 [matrix](https://matrix.to/#/@blck-b:matrix.org)
 
-[email](mailto:blck-b@proton.me)
+[email](mailto:blck@ik.me)
